@@ -1,0 +1,1 @@
+This directory is independent and does not need 'Computer' to function.
